@@ -1,0 +1,24 @@
+
+nome{
+    display:block;
+    text-align: center;
+    border:1px solid #000;
+    background-color:#eee;
+    font-size: 3.0em;
+    font-weight: bold;
+}
+
+telefone{
+    display: block;
+    text-align: center;
+    font-size: 2em;
+    font-style: italic;
+}
+
+cidade{
+   display: block;
+    text-align: center;
+    font-size: 16px;
+    color: #000;
+    background-color: #94BA00;
+}
