@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="css/adaptador.css" ?>
+<?xml-stylesheet type="text/css" href="adaptador.css" ?>
 <root>
     <nome sobrenome="nascimento">Beltrano</nome>
     <telefone ddd="11">98177-6257</telefone>
